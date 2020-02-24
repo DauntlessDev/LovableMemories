@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lovable Memories</string>
+
+    <string name="login_title">PASSCODE</string>
+    <string name="button_login">LOGIN</string>
+
+    <!--login-->
+    <string name="memories">MEMORIES</string>
+    <string name="message">MESSAGE</string>
+    <string name="about">ABOUT</string>
+
+    <string name="message_maintext">     Happy Valentine’s to one of my favorite people. Ever.     </string>
+</resources>
